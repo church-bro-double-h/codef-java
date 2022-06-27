@@ -70,13 +70,13 @@ public class CommonConstant {
 	
 	
 	/**	CODEF로부터 발급받은 클라이언트 아이디	*/
-	public static final String CLIENT_ID 	= "CODEF로부터 발급받은 클라이언트 아이디";						
+	public static final String CLIENT_ID 	= "e678a28a-77c3-4175-a580-2a034f60e5c2";
 	
 	/**	CODEF로부터 발급받은 시크릿 키	*/
-	public static final String SECERET_KEY 	= "CODEF로부터 발급받은 시크릿 키";
+	public static final String SECERET_KEY 	= "29f4bb03-cd04-40c5-adb1-cb664b247f7f";
 	
 	/**	CODEF로부터 발급받은 퍼블릭 키	*/
-	public static final String PUBLIC_KEY 	= "CODEF로부터 발급받은 퍼블릭 키";
+	public static final String PUBLIC_KEY 	= "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzE65lr6KrERlXQ8VQftYrnUu/no3o0UMWyyBzzQSm43lvLeFJK/YNrfG0aIJW+Ayx3XAjM6xDnXZfoIfjvIa4wDTFwOGJHOercyocs6Hz7oIgg8l/6o8NBdm118STSf8wNsF7pFmbBmnsLx0XWqNMfziJO/mIryIQ3nyHVBQEuL18FDt3RCSQH1Z/us1WEwtm7ABepPPO6sxuZDcWhAHe0B3Z5L+Il/zgjwr5x7YQLUjUI29wR3PXxKnikq8WiyXVQLVkKMdTs/LAOpp3h82WShvsumsnI1p9sfr9LSQKoVoLQU8916sqmdxRuc/MPsX7NbiIwEqW3Lz+Jj9wX/TRwIDAQAB";
 	
 	/**	OAUTH2.0 토큰 샘플	*/
 	public static String ACCESS_TOKEN = "";
